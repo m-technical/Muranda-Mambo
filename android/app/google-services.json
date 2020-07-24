@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "315977471858",
+    "firebase_url": "https://muranda-mambo-ef2b3.firebaseio.com",
+    "project_id": "muranda-mambo-ef2b3",
+    "storage_bucket": "muranda-mambo-ef2b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315977471858:android:968499589931f49479afeb",
+        "android_client_info": {
+          "package_name": "com.murandamambo.murandamambo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315977471858-pcsf1ol4g5126kvvttbtj0lslr7tddjo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.murandamambo.murandamambo_app",
+            "certificate_hash": "22622af1b02f19528ad68d29e7c8ae13a3d3b419"
+          }
+        },
+        {
+          "client_id": "315977471858-4fmrt191c12h9k4f3f9fno9svsug4340.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Xw-N2zR0RT5vV2tgkCHzFCCm6W0wioM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315977471858-4fmrt191c12h9k4f3f9fno9svsug4340.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
